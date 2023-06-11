@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "serve dist/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
