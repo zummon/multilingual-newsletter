@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
       fontFamily: "'Akaya Telivigala', cursive",
       title: "Multilingual Newsletter",
       head_line: "Newsletter",
-      translate_by: "(written by zummon)",
+      translate_by: "(Teerapat Anantarattanachai)",
       whats_it:
         "I create this small website to share how to write code for multilingual website. Go to view source code to see all the code. Then begin learning how to create one like this website by viewing the code or copy to create on your own from this template. Hope you will learn something or inspire you to create or apply to your own website.",
       other_text_1:
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
       fontFamily: "'Noto Serif SC', serif",
       title: "多语种通讯",
       head_line: "通讯",
-      translate_by: "（自动翻译，不会完全正确）",
+      translate_by: "（Teerapat Anantarattanachai）",
       whats_it:
         "我创建了这个小型网站，以分享如何为多语言网站编写代码。 转到查看源代码以查看所有代码。 然后，通过查看代码或通过此模板复制以自行创建，来开始学习如何创建一个类似此网站的网站。 希望您能学到一些东西或激发您创建或应用到自己的网站。",
       other_text_1:
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "ไทย",
       fontFamily: "'Sriracha', cursive",
       title: "หนังสือพิมพ์หลายภาษา",
-      translate_by: "(แปลโดย zummon)",
+      translate_by: "(Teerapat Anantarattanachai)",
       head_line: "หนังสือพิมพ์",
       whats_it:
         "ฉันสร้างเว็บไซต์เล็กๆ นี้ขึ้น เพื่อแบ่งปันวิธีการเขียนโค้ดสำหรับเว็บไซต์หลายภาษา ไปที่ดูซอร์สโค้ด เพื่อดูโค้ดทั้งหมด จากนั้นเริ่มเรียนรู้วิธีสร้างเว็บไซต์แบบนี้ โดยการดูโค้ด หรือคัดลอก เพื่อสร้างขึ้นด้วยตนเองจากเทมเพลตนี้ หวังว่าคุณจะได้เรียนรู้บางสิ่งบางอย่าง หรือสร้างแรงบันดาลใจให้คุณสร้าง หรือนำไปใช้กับเว็บไซต์ของคุณเอง",
